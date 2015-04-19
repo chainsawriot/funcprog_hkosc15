@@ -39,3 +39,9 @@ d(x↦x<sup>2</sup>)dx = (x↦2x)
 - Functions of functions
 - Higher-order functions
 
+## First class
+
+functions are the first class citizens in any functional programming language.
+
+何解?
+
