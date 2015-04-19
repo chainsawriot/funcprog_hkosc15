@@ -45,3 +45,33 @@ functions are the first class citizens in any functional programming language.
 
 何解?
 
+## First class citizen
+
+- value of a variable
+- argument to a procedure
+- return value from a procedure
+- member of an aggregate
+
+## e.g. first class data - integer
+
+- value of a variable
+
+```{c}
+int x = 100;
+```
+
+- argument to a procedure
+- return value from a procedure
+
+```{c}
+int square(int x) {
+    int square_of_x = x * x;
+	return square_of_x
+}
+```
+
+- member of an aggregate
+
+```{c}
+int fib[5] = {0,1,1,2,3};
+```
