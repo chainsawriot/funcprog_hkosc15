@@ -13,3 +13,11 @@
 | 動詞 Verbs | 名詞 Nouns |
 | 函數 functions | 數據 data |
 
+我(打死)了一個[人]。
+
+f(x) = x<sup>2</sup>
+
+f(100) = 100<sup>2</sup> = 10000
+
+
+
