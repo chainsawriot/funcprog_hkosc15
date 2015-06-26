@@ -75,3 +75,21 @@ int square(int x) {
 ```{c}
 int fib[5] = {0,1,1,2,3};
 ```
+## First-class function
+
+- value of a variable
+- argument to a procedure
+- return value from a procedure
+- member of an aggregate
+
+aka 'functions as data'
+
+# Racket
+
+- Scheme 是 Lisp 的方言。Racket 是 Scheme 的方言。
+- 不要問我 Racket 的用途
+- 本課程是教 Functional programming 不是「教 Racket」。
+
+## Visualization of programming
+
+
